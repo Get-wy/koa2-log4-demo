@@ -1,0 +1,5 @@
+[2019-10-25T10:24:41.516] [INFO] startup - Listening on port 3000
+[2019-10-25T10:25:06.804] [INFO] startup - Listening on port 3000
+[2019-10-25T10:25:21.163] [INFO] app - GET / - 279ms
+[2019-10-25T10:25:22.893] [INFO] app - GET / - 14ms
+[2019-10-25T10:25:23.848] [INFO] app - GET / - 9ms

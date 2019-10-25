@@ -1,0 +1,6 @@
+[2019-10-25T10:25:21.164] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 185 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-10-25T10:25:21.192] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-10-25T10:25:22.893] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 185 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-10-25T10:25:22.906] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-10-25T10:25:23.848] [INFO] http - ::1 - - "GET / HTTP/1.1" 200 185 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
+[2019-10-25T10:25:23.859] [INFO] http - ::1 - - "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36"
